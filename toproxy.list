@@ -42,6 +42,8 @@ DOMAIN-SUFFIX,skladchina.biz
 DOMAIN-SUFFIX,slideshare.net
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn.com,force-remote-dns
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitter.co
